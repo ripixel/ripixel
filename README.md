@@ -1,16 +1,63 @@
-### Hi there 👋
+### So who am I?
 
-<!--
-**ripixel/ripixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James King, a 28 year old Software Engineer from Lincolnshire, who has an affinity for Coca-Cola, bacon, and being pretty bad at boardgames despite my intense love of them. You want some more info? Fine...
 
-Here are some ideas to get you started:
+#### LOCATION
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lincolnshire, UK
+
+#### BIRTHDAY
+
+May, 1992
+
+#### TWITTER
+
+[@ripixelcodes](https://www.twitter.com/ripixelcodes)
+
+#### LINKEDIN
+
+[jameskingli](https://www.linkedin.com/in/jameskingli/)
+
+#### MACHINE
+
+Razer Blade 15 Advanced (2020)
+
+#### KEYBOARD
+
+Drevo Blademaster Pro
+
+#### MOUSE
+
+Logitech MX Master 2S
+
+#### MONITOR
+
+LG Curved Ultrawide
+
+#### HEADPHONES
+
+Steelseries Arctic Pro Wireless
+
+#### SPEAKER
+
+Panasonic SC HTB208
+
+#### SHINY LIGHTS
+
+Corsair iCUE LT100 Towers
+
+#### "SERIOUS" GAME
+
+Overwatch
+
+#### "SILLY" GAME
+
+Among Us
+
+#### HEIGHT
+
+5ft 11
+
+#### WEIGHT
+
+Rude...
