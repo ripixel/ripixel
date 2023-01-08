@@ -1,4 +1,4 @@
-I'm James King, a 30 year old Software Engineer from Nottingham, who has an affinity for Coca-Cola, bacon, and being pretty bad at boardgames despite my intense love of them. Currently work for [Deliveroo](https://github.com/deliveroo) as a Staff Software Engineer, and love it!
+I'm James King, a Software Engineer from Nottinghamshire, who has an affinity for Coca-Cola, bacon, and being pretty bad at boardgames despite my intense love of them. Currently work for [Deliveroo](https://github.com/deliveroo) as a Staff Software Engineer, and love it!
 
 Find some links to things below, and lets chat about cool things!
 
