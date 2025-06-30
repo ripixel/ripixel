@@ -1,4 +1,4 @@
-I'm James King, a Software Engineer from Nottinghamshire, who has an affinity for Coca-Cola, bacon, and being pretty bad at boardgames despite my intense love of them. Currently work for [Monzo](https://github.com/monzo) as a Staff Software Engineer, and love it!
+I'm James King, a Software Engineer from Nottinghamshire, who has an affinity for Coca-Cola, bacon, and being pretty bad at boardgames despite my intense love of them. Currently work for [Monzo](https://github.com/monzo) as a Senior Staff Software Engineer.
 
 Find some links to things below, and lets chat about cool things!
 
